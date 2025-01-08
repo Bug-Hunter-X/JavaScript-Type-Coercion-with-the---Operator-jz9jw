@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, error in JavaScript related to type coercion. The example uses the + operator with a number and a string.  The solution shows how to use strict equality checks to prevent unexpected behavior and explicit type conversion when necessary.  Understanding type coercion is vital for writing robust and predictable JavaScript code.
